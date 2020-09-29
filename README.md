@@ -5,4 +5,4 @@
 [![Build status](https://img.shields.io/appveyor/build/utilForever/InfinityMetro?style=flat-square)](https://ci.appveyor.com/project/utilForever/InfinityMetro/branch/master)
 [![codecov](https://img.shields.io/codecov/c/github/utilForever/InfinityMetro?style=flat-square)](https://codecov.io/gh/utilForever/InfinityMetro)
 
-Mini Metro simulator using C++ with some reinforcement learning
+Mini Metro simulator using Rust and Python with some reinforcement learning
