@@ -19,7 +19,5 @@ cmake-build-debug
 # vi files
 .syntastic_cpp_config
 
-# Python files
-*.pyc
-/.pytest_cache
-venv
+# node_dependencies
+gui/node_modules
